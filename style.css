@@ -1,0 +1,174 @@
+.list > li{
+    font-family: 'Work Sans', sans-serif;
+    color: #192655;
+}
+
+.whole{
+    padding: 30px;
+    background-color: #192655;
+    height: 100%;
+    width: 100%;
+}
+
+.nav-link{
+    color: #F3F0CA;
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+
+.heading{
+    color: #F3F0CA;
+}
+
+.insidewhole{
+    margin: 30px;
+    background-color: #3876BF;
+    height: 100%;
+    width: 97%;
+    
+    
+}
+
+.heads{
+    
+    color: #F3F0CA;
+}
+
+.icon{
+    background-color: #E1AA74;
+    height: 290px;
+    width: 300px;
+
+    border-radius: 20%;
+    padding-left: 5px;
+    border: 20px solid #192655;
+    position: relative;
+    top: -326px;
+    left: -80px;
+
+}
+
+.lead{
+color: #F3F0CA;
+position: relative;
+left: -50px;
+
+
+
+
+}
+
+.what{
+    background-color: #192655;
+    font-family: 'Work Sans', sans-serif;
+    color: #F3F0CA;
+    
+    
+}
+
+.what:hover{
+    background-color: #E1AA74;
+}
+
+.hero{
+    height: 550px;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.doido{
+    display: inline-block;
+    margin: 20px;
+    font-family: 'Work Sans', sans-serif;
+    color: #F3F0CA;
+    position: relative;
+    left: 35%;
+}
+.text-bg-primary{
+    color: #F3F0CA;
+}
+
+.feature{
+    color: #F3F0CA;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+#hanging-icons > h2{
+    display: inline-block;
+    color: #F3F0CA;
+    position: relative;
+    left: 42%;
+
+}
+
+.boxi{
+    color: #F3F0CA;
+}
+
+.boxy{
+    background-color: #E1AA74;
+}
+.bg-body-secondary {
+    --bs-bg-opacity: 1;
+    background-color: #E1AA74 !important;
+    border: 5px solid #192655;
+}
+.headi{
+    font-family: 'Work Sans', sans-serif;
+    color: #F3F0CA !important
+      
+}
+.para > p{
+    font-size: 18px;
+    color: #F3F0CA;
+}
+.aboutme{
+    display: inline-block;
+    font-family: 'Work Sans', sans-serif;
+    color: #F3F0CA;
+    font-size: 20px;
+}
+.aobout{
+    position: relative;
+    left: 200px;
+}
+.btn3 {
+    
+    border-radius: 10%;
+    
+    
+    color: black;
+}
+.btn3:hover{
+    background-color: #E1AA74;
+}
+.contcontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color:#E1AA74;
+    border-radius: 0.75rem;
+    position: relative;
+    left: -100px;
+    border-color: #192655;
+    box-shadow: 5px 5px;
+    border: 3px solid;
+    color: black;
+    padding: 20px;
+}
+.writen{
+    color: #F3F0CA;
+    font-family: 'Work Sans', sans-serif;
+    position: relative;
+    left: 200px;
+}
